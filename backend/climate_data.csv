@@ -1,0 +1,6 @@
+temperature,humidity,wind_speed,AQI
+32,60,5,2
+36,55,4,3
+41,45,3,5
+30,70,6,1
+38,50,5,4
